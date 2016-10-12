@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491325538096",
+    "firebase_url": "https://creates-3059a.firebaseio.com",
+    "project_id": "creates-3059a",
+    "storage_bucket": "creates-3059a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491325538096:android:ec8e57160b51dc4a",
+        "android_client_info": {
+          "package_name": "com.ashok.catregor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491325538096-6bdm3kedd6249bo6njnfmbuklos9k1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZCY0lehBIq_R4qvd74QXQoPHs2hUvw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
