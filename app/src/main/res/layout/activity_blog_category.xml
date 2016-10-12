@@ -4,13 +4,12 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
-    tools:context="com.ashok.catregor.MainActivity">
+    tools:context="com.ashok.catregor.CategoryBlogActivity">
 
     <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/category_list">
+        android:id="@+id/category_blog_list">
 
     </android.support.v7.widget.RecyclerView>
 </RelativeLayout>

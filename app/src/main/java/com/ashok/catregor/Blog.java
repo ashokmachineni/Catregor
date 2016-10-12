@@ -1,10 +1,12 @@
 package com.ashok.catregor;
 
+import java.io.Serializable;
+
 /**
  * Created by ashok on 10/12/16.
  */
 
-public class Blog {
+public class Blog implements Serializable {
     private String title,image,link,category;
     public Blog(){}
 
